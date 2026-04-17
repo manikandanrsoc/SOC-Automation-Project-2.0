@@ -201,8 +201,6 @@ Do not deploy in production without proper security controls, data masking, and 
 
 **Manikandan R** — SOC Analyst L1 | CompTIA Security+ Certified
 
-<img src="./tryhackme_top1.png" width="260" alt="TryHackMe Top 1%" />
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manikandanrsoc/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manikandanrsoc@gmail.com)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Top_1%25-FF4500?style=for-the-badge)](https://tryhackme.com/p/smartmani9607)
